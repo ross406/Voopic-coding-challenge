@@ -1,3 +1,5 @@
+// This code is used for generationg the JSON
+
 const fs = require('fs');
 
 const a = [];
